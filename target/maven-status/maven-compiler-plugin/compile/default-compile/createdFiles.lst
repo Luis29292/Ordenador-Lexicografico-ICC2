@@ -1,0 +1,13 @@
+mx/unam/ciencias/icc/CampoTexto.class
+mx/unam/ciencias/icc/ExcepcionIndiceInvalido.class
+mx/unam/ciencias/icc/ExcepcionLineaInvalida.class
+mx/unam/ciencias/icc/Lista$Nodo.class
+mx/unam/ciencias/icc/Arreglos.class
+mx/unam/ciencias/icc/BaseDeDatosTextos.class
+mx/unam/ciencias/icc/Lista.class
+mx/unam/ciencias/icc/Registro.class
+mx/unam/ciencias/icc/Texto.class
+mx/unam/ciencias/icc/IteradorLista.class
+mx/unam/ciencias/icc/BaseDeDatos.class
+mx/unam/ciencias/icc/Lista$Iterador.class
+mx/unam/ciencias/icc/Proyecto2.class

@@ -1,4 +1,4 @@
-package mx.unam.ciencias.icc;
+package mx.unam.ciencias.icc.proyecto2;
 
 /**
  * Clase para bases de datos de estudiantes.

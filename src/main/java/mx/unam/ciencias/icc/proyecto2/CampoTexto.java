@@ -1,4 +1,4 @@
-package mx.unam.ciencias.icc;
+package mx.unam.ciencias.icc.proyecto2;
 
 /**
  * Enumeración para los campos de un {@link Estudiante}.

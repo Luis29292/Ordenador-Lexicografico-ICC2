@@ -1,4 +1,4 @@
-package mx.unam.ciencias.icc;
+package mx.unam.ciencias.icc.proyecto2;
 
 /**
  * Interfaz para registros. Los registros deben de poder serializarse a y
